@@ -1,6 +1,5 @@
 require("bootstrap");
 const createEl = ("./domMethods");
-const createLoremIpsum = require("./helpers");
 
 if (window.location.href.indexOf("event") > -1) {
     const currentEvent = JSON.parse(localStorage.getItem("currentEvent")) || {

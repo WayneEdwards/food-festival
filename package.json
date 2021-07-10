@@ -2,7 +2,7 @@
   "name": "food-festival",
   "version": "1.0.0",
   "description": "An app designed to showcase a three day food event.",
-  "main": "./assets/js/scripts.js",
+  "main": "assets/js/scripts.js",
   "scripts": {
     "webpack": "webpack --watch",
     "build": "webpack",

@@ -1,5 +1,4 @@
 require("bootstrap");
-const createEl = ("./domMethods");
 
 if (window.location.href.indexOf("tickets") > -1) {
 
